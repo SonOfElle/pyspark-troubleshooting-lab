@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-> 🚧 **Planned** — this repo is a placeholder. Content will land as the project takes shape.
+> 🚧 **Planned**...Content will land as the project takes shape.
 
 A collection of reproducible Spark failures, each one isolated, explained, and fixed. The point isn't the fix. The point is understanding *why* the failure happens, so you can recognise it in production before it takes down a pipeline.
 
